@@ -11,4 +11,5 @@ int itc_max_num(long long number)
         }
         number=number/10;
     }
+}
     return f;
